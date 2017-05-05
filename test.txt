@@ -1,6 +1,2 @@
 this is created by dev1 for testing purpose
-<<<<<<< HEAD
 this is different second line
-=======
-new line
->>>>>>> 3e3512935deeb510bf6d36c59cb134eaf640ffad
